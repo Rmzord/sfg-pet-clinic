@@ -47,7 +47,7 @@
     </build>
 
     <scm>
-        <developerConnection>scam:git:https://github.com/Rmzord/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/Rmzord/sfg-pet-clinic.git</developerConnection>
     </scm>
 
 
